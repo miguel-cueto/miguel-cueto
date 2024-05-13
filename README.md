@@ -4,7 +4,7 @@
 
 
 
-<h2>👨‍💻 Certifications:</h2>
+<h2>📜 Certifications:</h2>
 
 - <b>CompTIA A+</b>
 - <b>CompTIA Network+</b>
