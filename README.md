@@ -1,4 +1,4 @@
-<h1>Hi, I'm Miguel, MSM, InfoSysSec, CSIS 
+<h1>Hi, I'm Miguel, MSM InfoSysSec, CSIS 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
