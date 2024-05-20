@@ -2,7 +2,11 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+<h2>📜 Education:</h2>
 
+- <b>Associate of Science in Medical Laboratory Technician</b>
+- <b>Bachelor of Science in Clinical Laboratory Science</b>
+- <b>Master of Science in Management - Information Systems Security </b>
 
 <h2>📜 Certifications:</h2>
 
