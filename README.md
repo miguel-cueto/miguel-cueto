@@ -1,6 +1,6 @@
 <h1>Hi, I'm Miguel, MSM InfoSysSec, CSIS 
 
-<h2>📜 EDUCATION:</h2>
+<h2>🎓  EDUCATION:</h2>
 
 - <b>Associate of Science in Medical Laboratory Technician</b>
   - <b>J. Sargeant Reynolds Community College, Richmond, VA </b>
@@ -12,13 +12,13 @@
   - <b>Colorado Technical University (CTU), Colorado Spring, CO</b>
   - <b>Graduated: May 2021</b>
 
-<h2>📜 CERTIFICATIONS:</h2>
+<h2>📚 CERTIFICATIONS:</h2>
 
 - <b>CompTIA A+</b>
 - <b>CompTIA Network+</b>
 - <b>CompTIA Security+</b>
 
-<h2>📜 EXPERIENCE:</h2>
+<h2>💼  EXPERIENCE:</h2>
 
 - <b>Jewelry Sales Associate (January 2008 - December 2013)</b>
   - <b>JC Penney, Sterling and Glen Allen, VA</b>
