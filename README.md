@@ -21,7 +21,12 @@
 <h2>📜 EXPERIENCE:</h2>
 
 - <b>Jewelry Sales Associate</b>
+  - <b>JC Penney, Sterling and Glen Allen, VA (January 2008 - December 2013)</b>
+  - <b>Provided exceptional customer service while adhering to strict payment card industry data security standards (PCI DSS) for handling sensitive financial information, ensuring data privacy and security during transactions. </b>
+    - <b>•	Developed effective communication skills and the ability to explain complex information clearly, fostering trust and building lasting customer relationships.</b>
 - <b>Medical Technologist III: Blood Gas Laboratory</b>
+  - <b>Colorado Technical University (CTU), Colorado Spring, CO</b>
+  - <b>Graduated: May 2021</b>
 
 <h2> 🤳 Connect with me:</h2>
 
