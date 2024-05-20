@@ -1,10 +1,10 @@
 <h1>Hi, I'm Miguel, MSM InfoSysSec, CSIS 
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
-
 <h2>📜 EDUCATION:</h2>
 
 - <b>Associate of Science in Medical Laboratory Technician</b>
+  - <b>J. Sargeant Reynolds Community College, Richmond, VA </b>
+  - <b>Graduated: May 2017</b>
 - <b>Bachelor of Science in Clinical Laboratory Science</b>
 - <b>Master of Science in Management - Information Systems Security </b>
 
@@ -14,7 +14,7 @@
 - <b>CompTIA Network+</b>
 - <b>CompTIA Security+</b>
 
-  <h2>📜 EXPERIENCE:</h2>
+<h2>📜 EXPERIENCE:</h2>
 
 - <b>Jewelry Sales Associate</b>
 - <b>Medical Technologist III: Blood Gas Laboratory</b>
@@ -26,18 +26,3 @@
 
 
 [linkedin]: https://www.linkedin.com/in/miguelcueto/
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
