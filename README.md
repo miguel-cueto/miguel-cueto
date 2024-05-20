@@ -6,7 +6,11 @@
   - <b>J. Sargeant Reynolds Community College, Richmond, VA </b>
   - <b>Graduated: May 2017</b>
 - <b>Bachelor of Science in Clinical Laboratory Science</b>
+  - <b>Old Dominion University (ODU), Norfolk, VA</b>
+  - <b>Graduated: May 2019 </b>
 - <b>Master of Science in Management - Information Systems Security </b>
+  - <b>Colorado Technical University (CTU), Colorado Spring, CO</b>
+  - <b>Graduated: May 2021</b>
 
 <h2>📜 CERTIFICATIONS:</h2>
 
