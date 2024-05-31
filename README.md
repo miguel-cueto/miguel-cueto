@@ -1,6 +1,6 @@
 <h1>Hi, I'm Miguel, MSM InfoSysSec, CSIS 
 
-<h2>🎓 CYBERSECURITY PROJECTS:</h2>
+<h2>💻 CYBERSECURITY PROJECTS:</h2>
 
 - [Creating a Full Active Directory Lab](https://github.com/miguel-cueto/ActiveDirectory.Lab)
 
