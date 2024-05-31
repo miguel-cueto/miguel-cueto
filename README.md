@@ -14,9 +14,9 @@
 
 <h2>📚 CERTIFICATIONS:</h2>
 
-- <b>CompTIA A+</b>
-- <b>CompTIA Network+</b>
-- <b>CompTIA Security+</b>
+- [CompTIA A+](https://www.credly.com/badges/a7671435-3ed3-449a-9385-197453fe8efa/linked_in_profile)
+- [CompTIA Network+](https://www.credly.com/badges/da945935-188b-4dd3-996b-00b186e2f24f/linked_in_profile)
+- [CompTIA Security+](https://www.credly.com/badges/5716008d-43c2-4321-9af9-9ebe723b38ff/linked_in_profile)
 
 <h2>💼  EXPERIENCE:</h2>
 
