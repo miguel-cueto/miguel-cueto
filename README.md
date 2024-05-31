@@ -1,7 +1,8 @@
 <h1>Hi, I'm Miguel, MSM InfoSysSec, CSIS 
 
 <h2>🎓 CYBERSECURITY PROJECTS:</h2>
-- [Creating a Full Active Directory Lab]([https://www.credly.com/badges/a7671435-3ed3-449a-9385-197453fe8efa/linked_in_profile](https://github.com/miguel-cueto/ActiveDirectory.Lab/blob/main/README.md))
+- [Creating a Full Active Directory Lab]([https://github.com/miguel-cueto/ActiveDirectory.Lab/blob/main/README.md])
+
 <h2>🎓  EDUCATION:</h2>
 
 - <b>Associate of Science in Medical Laboratory Technician</b>
