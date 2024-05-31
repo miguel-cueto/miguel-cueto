@@ -33,6 +33,7 @@
 
 
 [<img align="left" alt="miguelcueto | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+[<img align="left" alt="miguel_cueto5 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 [linkedin]: https://www.linkedin.com/in/miguelcueto/
+[twitter]: https://x.com/miguel_cueto5
