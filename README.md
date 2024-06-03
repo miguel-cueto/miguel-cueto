@@ -2,7 +2,7 @@
 
 <h2>💻 CYBERSECURITY PROJECTS:</h2>
 
-- [Creating a Full Active Directory Lab](https://github.com/miguel-cueto/ActiveDirectory.Lab)
+- [Creating a Full Active Directory](https://github.com/miguel-cueto/ActiveDirectory.Lab)
 
 <h2>🎓  EDUCATION:</h2>
 
