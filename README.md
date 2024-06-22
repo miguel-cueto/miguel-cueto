@@ -33,7 +33,7 @@
   - <b>Maintained data integrity, regulatory compliance (HIPAA), and strict adherence to data privacy and security standards within the clinical laboratory environment by adhering to annual training workflows and tools for handling PHI; spearheaded onboarding and continuous education of new team members, fostering a culture of security-conscious operations. </b>
   - <b>Excelled as an Epic Super-User, facilitating EHR system training and knowledge transfer; leveraged exceptional attention to detail and analytical mindset to evaluate laboratory processes, ensuring confidentiality, integrity, and availability of critical systems and sensitive data.</b>
 
-<h2> 🤳 Connect with me:</h2>
+<h2>Connect with me:</h2>
 
 
 [<img align="left" alt="miguelcueto | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
