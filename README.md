@@ -2,8 +2,10 @@
 
 <h2>💻 CYBERSECURITY PROJECTS:</h2>
 
-- [Creating a Full Active Directory](https://github.com/miguel-cueto/ActiveDirectory.Lab)
-
+- [Enterprise Network Simulation: Active Directory Implementation and Management](https://github.com/miguel-cueto/ActiveDirectory.Lab)
+- [Global Cyber Threat Visualization: Azure-Based Honeypot SIEM Implementation](https://github.com/miguel-cueto/MicrosoftEntraID)
+- [Azure-Based Vulnerability Management: Nessus Implementation and Remediation](https://github.com/miguel-cueto/Nessus)
+  
 <h2>🎓  EDUCATION:</h2>
 
 - <b>Associate of Science in Medical Laboratory Technician</b>
