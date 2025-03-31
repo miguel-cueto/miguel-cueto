@@ -10,7 +10,13 @@
   - <b>Joined a Windows 10 client to the domain for full authentication testing
   - <b>Simulated a complete internal network to mirror enterprise architecture
 - [Global Cyber Threat Visualization: Azure-Based Honeypot SIEM Implementation](https://github.com/miguel-cueto/MicrosoftEntraID)
-- [Azure-Based Vulnerability Management: Nessus Implementation and Remediation](https://github.com/miguel-cueto/Nessus)
+- <b>[Nessus Vulnerability Management Lab on Microsoft Azure](https://github.com/miguel-cueto/Nessus)
+- Built a fully functional vulnerability scanning lab in Microsoft Azure using Nessus Essentials. This project simulates a real-world vulnerability management workflow: from setup, vulnerability introduction, scanning (unauthenticated vs. authenticated), all the way through to remediation and validation.
+  - <b>Installed and configured Nessus Essentials to scan a Windows 10 VM hosted on Microsoft Azure
+  - <b>Simulated real-world vulnerabilities by deploying outdated software and misconfiguring firewall settings
+  - <b>Conducted both unauthenticated and credentialed scans to compare depth of vulnerability detection
+  - <b>Applied remediation techniques and verified patch effectiveness with follow-up scans
+  - <b>Authored detailed documentation and actively maintained project through verified GitHub commits
   
 <h2>🎓  EDUCATION:</h2>
 
