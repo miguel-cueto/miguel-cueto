@@ -9,7 +9,13 @@
   - <b>Used PowerShell scripting to automate the creation of 1,000+ domain users
   - <b>Joined a Windows 10 client to the domain for full authentication testing
   - <b>Simulated a complete internal network to mirror enterprise architecture
-- [Global Cyber Threat Visualization: Azure-Based Honeypot SIEM Implementation](https://github.com/miguel-cueto/MicrosoftEntraID)
+- <b>[Cloud-Based Honeypot with Microsoft Sentinel for Threat Detection](https://github.com/miguel-cueto/MicrosoftEntraID)
+- This project simulates a real-world security monitoring environment by deploying a vulnerable Windows VM in Microsoft Azure and integrating it with Microsoft Sentinel. It captures failed RDP login attempts from global IP addresses, enriches the data with geolocation intelligence, and visualizes attack trends in a live threat dashboard. The goal was to strengthen blue-team skills in cloud-native SIEM, incident detection, and threat analysis.
+  - <b>Configured and exposed a Windows 10 honeypot VM to attract brute-force RDP attacks in a controlled Azure environment.
+  - <b>Enabled data collection via Microsoft Sentinel and Azure Log Analytics to monitor failed login events (Event ID 4625).
+  - <b>Authored a PowerShell script to extract log data and enrich it with real-time IP geolocation from ipgeolocation.io API.
+  - <b>Created a custom log table and built a dynamic dashboard to display global attack patterns using KQL in Microsoft Sentinel.
+  - <b>Gained hands-on experience in cloud-based threat detection, log analysis, and SIEM customization for blue-team operations.
 - <b>[Nessus Vulnerability Management Lab on Microsoft Azure](https://github.com/miguel-cueto/Nessus)
 - Built a fully functional vulnerability scanning lab in Microsoft Azure using Nessus Essentials. This project simulates a real-world vulnerability management workflow: from setup, vulnerability introduction, scanning (unauthenticated vs. authenticated), all the way through to remediation and validation.
   - <b>Installed and configured Nessus Essentials to scan a Windows 10 VM hosted on Microsoft Azure
