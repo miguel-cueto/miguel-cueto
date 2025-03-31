@@ -2,7 +2,13 @@
 
 <h2>💻 CYBERSECURITY PROJECTS:</h2>
 
-- [Enterprise Network Simulation: Active Directory Implementation and Management](https://github.com/miguel-cueto/ActiveDirectory.Lab)
+- <b>[Enterprise Active Directory Lab – Domain Controller, Network Services & User Automation](https://github.com/miguel-cueto/ActiveDirectory.Lab)
+- Simulated a full corporate Active Directory environment using VirtualBox, Windows Server 2019, and PowerShell. This project demonstrates core skills in identity and access management (IAM), Windows infrastructure, and user provisioning.
+  - <b>Built a domain controller with DNS, DHCP, and NAT routing
+  - <b>Created and structured Organizational Units (OUs) for user management
+  - <b>Used PowerShell scripting to automate the creation of 1,000+ domain users
+  - <b>Joined a Windows 10 client to the domain for full authentication testing
+  - <b>Simulated a complete internal network to mirror enterprise architecture
 - [Global Cyber Threat Visualization: Azure-Based Honeypot SIEM Implementation](https://github.com/miguel-cueto/MicrosoftEntraID)
 - [Azure-Based Vulnerability Management: Nessus Implementation and Remediation](https://github.com/miguel-cueto/Nessus)
   
