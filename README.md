@@ -1,6 +1,10 @@
 <h1>Hi, I'm Miguel, MSM InfoSysSec, CSIS 
 
-<h2>💻 CYBERSECURITY PROJECTS:</h2>
+<h2>PROFESSIONAL SUMMARY:</h2>
+
+- <b>Medical Technologist III with over a decade of progressive experience at VCU Health. Skilled in regulatory compliance (HIPAA, PCI DSS), team training, and process improvement within clinical environments. Holds a Master’s degree in Information Systems Security and multiple CompTIA certifications. Builds and documents technical labs in Active Directory, SIEM, and vulnerability management to further strengthen IT system knowledge and privacy-first design.
+
+<h2>💻 TECHNICAL PROJECTS:</h2>
 
 - <b>[Enterprise Active Directory Lab – Domain Controller, Network Services & User Automation](https://github.com/miguel-cueto/ActiveDirectory.Lab)
 - Simulated a full corporate Active Directory environment using VirtualBox, Windows Server 2019, and PowerShell. This project demonstrates core skills in identity and access management (IAM), Windows infrastructure, and user provisioning.
