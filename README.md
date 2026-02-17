@@ -7,38 +7,20 @@
 <h2>💻 TECHNICAL PROJECTS:</h2>
 
 - <b>[Enterprise Active Directory Lab – Domain Controller, Network Services & User Automation](https://github.com/miguel-cueto/ActiveDirectory.Lab)
-- Simulated a full corporate Active Directory environment using VirtualBox, Windows Server 2019, and PowerShell. This project demonstrates core skills in identity and access management (IAM), Windows infrastructure, and user provisioning.
-  - <b>Built a domain controller with DNS, DHCP, and NAT routing
-  - <b>Created and structured Organizational Units (OUs) for user management
-  - <b>Used PowerShell scripting to automate the creation of 1,000+ domain users
-  - <b>Joined a Windows 10 client to the domain for full authentication testing
-  - <b>Simulated a complete internal network to mirror enterprise architecture
+  - <b>Simulated a full corporate Active Directory environment using VirtualBox, Windows Server 2019, and PowerShell. This project demonstrates core skills in identity and access management (IAM), Windows infrastructure, and user provisioning.
 - <b>[Cloud-Based Honeypot with Microsoft Sentinel for Threat Detection](https://github.com/miguel-cueto/MicrosoftEntraID)
-- This project simulates a real-world security monitoring environment by deploying a vulnerable Windows VM in Microsoft Azure and integrating it with Microsoft Sentinel. It captures failed RDP login attempts from global IP addresses, enriches the data with geolocation intelligence, and visualizes attack trends in a live threat dashboard. The goal was to strengthen blue-team skills in cloud-native SIEM, incident detection, and threat analysis.
-  - <b>Configured and exposed a Windows 10 honeypot VM to attract brute-force RDP attacks in a controlled Azure environment.
-  - <b>Enabled data collection via Microsoft Sentinel and Azure Log Analytics to monitor failed login events (Event ID 4625).
-  - <b>Authored a PowerShell script to extract log data and enrich it with real-time IP geolocation from ipgeolocation.io API.
-  - <b>Created a custom log table and built a dynamic dashboard to display global attack patterns using KQL in Microsoft Sentinel.
-  - <b>Gained hands-on experience in cloud-based threat detection, log analysis, and SIEM customization for blue-team operations.
+  - <b>This project simulates a real-world security monitoring environment by deploying a vulnerable Windows VM in Microsoft Azure and integrating it with Microsoft Sentinel. It captures failed RDP login attempts from global IP addresses, enriches the data with geolocation intelligence, and visualizes attack trends in a live threat dashboard. The goal was to strengthen blue-team skills in cloud-native SIEM, incident detection, and threat analysis.
 - <b>[Nessus Vulnerability Management Lab on Microsoft Azure](https://github.com/miguel-cueto/Nessus)
-- Built a fully functional vulnerability scanning lab in Microsoft Azure using Nessus Essentials. This project simulates a real-world vulnerability management workflow: from setup, vulnerability introduction, scanning (unauthenticated vs. authenticated), all the way through to remediation and validation.
-  - <b>Installed and configured Nessus Essentials to scan a Windows 10 VM hosted on Microsoft Azure
-  - <b>Simulated real-world vulnerabilities by deploying outdated software and misconfiguring firewall settings
-  - <b>Conducted both unauthenticated and credentialed scans to compare depth of vulnerability detection
-  - <b>Applied remediation techniques and verified patch effectiveness with follow-up scans
-  - <b>Authored detailed documentation and actively maintained project through verified GitHub commits
+  - <b>Built a fully functional vulnerability scanning lab in Microsoft Azure using Nessus Essentials. This project simulates a real-world vulnerability management workflow: from setup, vulnerability introduction, scanning (unauthenticated vs. authenticated), all the way through to remediation and validation.
   
 <h2>🎓  EDUCATION:</h2>
 
-- <b>Associate of Science in Medical Laboratory Technician</b>
-  - <b>J. Sargeant Reynolds Community College, Richmond, VA </b>
-  - <b>Graduated: May 2017</b>
-- <b>Bachelor of Science in Clinical Laboratory Science</b>
-  - <b>Old Dominion University (ODU), Norfolk, VA</b>
-  - <b>Graduated: May 2019 </b>
 - <b>Master of Science in Management - Information Systems Security </b>
   - <b>Colorado Technical University (CTU), Colorado Spring, CO</b>
   - <b>Graduated: May 2021</b>
+- <b>Bachelor of Science in Clinical Laboratory Science</b>
+  - <b>Old Dominion University (ODU), Norfolk, VA</b>
+  - <b>Graduated: May 2019 </b>
 
 <h2>📚 CERTIFICATIONS:</h2>
 
