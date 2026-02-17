@@ -49,7 +49,7 @@
   - <b>Reinforced technical troubleshooting and teamwork skills in a mission-driven nonprofit environment.</b>
   - <b>Collaborate with other volunteers to streamline sorting processes and maintain accuracy in part identification.</b>
   - <b>Support organizational IT efforts by contributing to hardware lifecycle management and e-waste reduction.</b>
-  - <b>•	Dismantle and categorize PCs, laptops, and peripherals for secure recycling and reuse following IT governance standards.</b>
+  - <b>Dismantle and categorize PCs, laptops, and peripherals for secure recycling and reuse following IT governance standards.</b>
   
 <h2>Connect with me:</h2>
 
