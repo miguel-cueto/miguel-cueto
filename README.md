@@ -45,6 +45,7 @@
 - [CompTIA A+](https://www.credly.com/badges/a7671435-3ed3-449a-9385-197453fe8efa/linked_in_profile)
 - [CompTIA Network+](https://www.credly.com/badges/da945935-188b-4dd3-996b-00b186e2f24f/linked_in_profile)
 - [CompTIA Security+](https://www.credly.com/badges/5716008d-43c2-4321-9af9-9ebe723b38ff/linked_in_profile)
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/0b766d74-8bbe-4582-91ce-9042df903093/linked_in_profile)
 
 <h2>💼  EXPERIENCE:</h2>
 
